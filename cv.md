@@ -21,7 +21,7 @@ https://www.codewars.com/users/Angelinka).
 + CSS, SCSS (Basic)/ SASS(Basic),
 + JavaScript (Basic),
 + GitHub,
-+ Avocode
++ Avocode,
 + VS Code.
 
 ## Code example:
