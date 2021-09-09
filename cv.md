@@ -15,6 +15,14 @@ https://www.codewars.com/users/Angelinka).
 
 *For a year I have been immersing myself in the profession, going through online intensives and now I am studying at RS School. My professional principle is – do not stop, develop yourself and learn new things every day! The current place of employment relates to the government service and has nothing in common with the IT industry. In my opinion, the frontend development will help me realize myself professionally.*
 
+## My skills:
+
++ HTML5, PUG (Basic),
++ CSS, SCSS (Basic)/ SASS(Basic),
++ JavaScript (Basic),
++ GitHub,
++ Avocode
++ VS Code.
 
 ## Code example:
 
@@ -25,3 +33,7 @@ https://www.codewars.com/users/Angelinka).
         return 0
       }
     }
+
+## English
+
+*A2 (To improve my English skills I attend a course organized by the Minsk linguistic university).*
