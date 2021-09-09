@@ -34,6 +34,17 @@ https://www.codewars.com/users/Angelinka).
       }
     }
 
+## Education:
+
+**IT courses:**
++ 10 month course "Frontend development" at the computer academy IT Step,
++ Online course «Basics of website coding (html & css)» at the educational platform Netology,
++ Online course «Front-end / JavaScript» at the Community School from The Rolling Scopes.
+
+**Professional education:**
++ Minsk State Polytechnic College (executive assistant, specialty - document management),
++ Minsk State Technological University (economist, specialty - accounting).
+
 ## English
 
 *A2 (To improve my English skills I attend a course organized by the Minsk linguistic university).*
