@@ -59,7 +59,13 @@ main{
   width: 40%;
   background-color: #f7f7f7;
   margin-right: 30px;
+  
 }
+
+.my_skills{
+  padding: 40px;
+}
+
 
 .line {
   height: 8px;
@@ -70,9 +76,10 @@ main{
 
 }
 
-.my_skills{
+.language {
   padding: 40px;
 }
+
 
 aside{
   width:  60%;
