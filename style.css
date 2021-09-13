@@ -1,0 +1,44 @@
+body {
+  /* height: 2000px;
+  width: 1414px; */
+  margin: auto;
+  box-sizing: border-box;
+  font-family: 'Public Sans', sans-serif;
+}
+
+main {
+  width: 40%; 
+}
+
+img {
+  height: 35px;
+}
+header{
+  display: flex;
+}
+.last_first_name{
+  background-color: #343434;
+  width: 40%;
+  height: 500px;
+  text-align: center;
+}
+
+.contacts{
+  width: 60%;
+  
+}
+.container {
+  display: flex;
+}
+main{
+  width: 40%;
+}
+aside{
+  width:  60%;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  
+}
