@@ -3,6 +3,7 @@ body {
   box-sizing: border-box;
   background-color: #ffffff;
 }
+
 .container_body {
   margin: 20px auto;
   font-family: 'Public Sans', sans-serif;
@@ -10,10 +11,8 @@ body {
   line-height: 2.3;
   width: 1024px;
   box-shadow: 0 0 11px rgb(0 0 0 / 21%);
-  /* display: flex;
-  flex-wrap: wrap; */
-   /* text-align: center; */
-  
+  display: flex;
+  flex-wrap: wrap;
 }
 
 h1 {
@@ -21,13 +20,7 @@ h1 {
     font-size: 30px;
     letter-spacing: 2px;
 }
-main {
-  width: 40%; 
-}
 
-.img_rrs {
-  height: 35px;
-}
 
 header{
   display: flex;
@@ -42,9 +35,9 @@ header{
   color: #ffffff;
   padding-top: 15px;
 }
+
 .img_last_first_name{
   width: 85%;
-  
 }
 
 .contacts{
@@ -60,10 +53,27 @@ header{
 }
 .container {
   display: flex;
+  height: 60%;
 }
 main{
   width: 40%;
+  background-color: #f7f7f7;
+  margin-right: 30px;
 }
+
+.line {
+  height: 8px;
+  width: 101px;
+  border-top: 3px solid #343434;
+  border-bottom: dotted 3px #343434;
+  padding-left: 17px;
+
+}
+
+.my_skills{
+  padding: 40px;
+}
+
 aside{
   width:  60%;
 }
@@ -74,4 +84,8 @@ aside{
   justify-content: space-between;
   padding: 0;
 
+}
+
+.img_rrs {
+  height: 35px;
 }
